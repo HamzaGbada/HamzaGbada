@@ -9,11 +9,11 @@
 حمزة قبادة (Hamza Gbada)
 
 [//]: # (<p style="font-family: 'Amiri Quran', serif;">سَما لَكَ شَوقٌ بَعدَما كانَ أَقصَرا </p>)
-
+<img src="img.png" alt="img.png">
 </h2>
 
 <div align="center">
-    <img src="img.png" alt="img.png">
+    
 </div>
 
 
