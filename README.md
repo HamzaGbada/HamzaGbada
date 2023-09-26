@@ -9,7 +9,10 @@
 </p>
 </h2>
 
-![img.png](img.png)
+<div align="center">
+    <img src="img.png" alt="img.png">
+</div>
+
 
 <div>
 
