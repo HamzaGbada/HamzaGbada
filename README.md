@@ -1,10 +1,16 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap" rel="stylesheet">
+
 <h2 align="center">
 حمزة قبادة (Hamza Gbada)
-
-سَما لَكَ شَوقٌ بَعدَما كانَ أَقصَرا ****
+<p style="font-family: 'Amiri Quran', serif;">سَما لَكَ شَوقٌ بَعدَما كانَ أَقصَرا ****
 وَحَلَّت سُلَيمى بَطنَ قَوِّ فَعَرعَرا
+</p>
 </h2>
+
 <div>
+
 <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=HamzaGbada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
 </div>
 
