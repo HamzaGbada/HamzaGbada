@@ -5,8 +5,8 @@
 <h2 align="center">
 حمزة قبادة (Hamza Gbada)
 
-[//]: # (<p style="font-family: 'Amiri Quran', serif;">سَما لَكَ شَوقٌ بَعدَما كانَ أَقصَرا )
-</p>
+[//]: # (<p style="font-family: 'Amiri Quran', serif;">سَما لَكَ شَوقٌ بَعدَما كانَ أَقصَرا </p>)
+
 </h2>
 
 <div align="center">
