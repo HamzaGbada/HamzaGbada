@@ -12,13 +12,7 @@
 <img src="img.png" alt="img.png">
 </h2>
 
-<div align="center">
-    
-</div>
-
-
 <div>
-
 <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=HamzaGbada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
 </div>
 
