@@ -1,12 +1,27 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap" rel="stylesheet">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+  <foreignObject width="100%" height="100%">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap" rel="stylesheet">
+        <style>
+          h2 {
+            text-align: center;
+          }
+          p {
+            font-family: 'Amiri Quran', serif;
+          }
+        </style>
+      </head>
+      <body>
+        <h2>حمزة قبادة (Hamza Gbada)</h2>
+        <p>سَما لَكَ شَوقٌ بَعدَما كانَ أَقصَرا</p>
+      </body>
+    </html>
+  </foreignObject>
+</svg>
 
-<h2 align="center">
-حمزة قبادة (Hamza Gbada)
-<p style="font-family: 'Amiri Quran', serif;">سَما لَكَ شَوقٌ بَعدَما كانَ أَقصَرا 
-</p>
-</h2>
 
 <div>
 
