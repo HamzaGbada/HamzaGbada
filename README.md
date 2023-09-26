@@ -1,15 +1,18 @@
 <h2 align="center">
 حمزة قبادة (Hamza Gbada)
+
+سَما لَكَ شَوقٌ بَعدَما كانَ أَقصَرا ****
+وَحَلَّت سُلَيمى بَطنَ قَوِّ فَعَرعَرا
 </h2>
 <div>
 <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=HamzaGbada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
 </div>
 
-- 👨‍🦱 PhD Student (GNN and CV) [@University of Sousse](https://uso.rnu.tn/) 
+- 👨‍🦱 PhD Student (GNN and CV) [@University of Sousse](https://uso.rnu.tn/).
 - 🔭 I am currently working on OCR and Information Extraction.
-- 📚 Improving my skill in Graph Neural Networks (GNNs)
-- 💌 Open-Source projects
-- شعر, تاريخ, أنساب, رياضيات (Poetry, history, Genealogy, Mathematics)
+- 📚 Improving my skill in Graph Neural Networks (GNNs).
+- 💌 Open-Source projects.
+- شعر, تاريخ, أنساب, رياضيات (Poetry, history, Genealogy, Mathematics).
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/hamzagbada/)
   
 
@@ -45,7 +48,6 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=PyTorch_Lightning&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Numba](https://a11ybadges.com/badge?logo=numba)
@@ -56,8 +58,8 @@
 </h4>
 
 <h4 align="left">
-    Other Tools: 
-  
+    Other Tools:
+
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -66,6 +68,7 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 </h4>
 
 
