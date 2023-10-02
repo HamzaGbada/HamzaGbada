@@ -12,9 +12,12 @@
 <img src="img.png" alt="img.png">
 </h2>
 
-<div>
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=HamzaGbada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+<div style="display: flex; flex-direction: column; align-items: flex-end;">
+    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=HamzaGbada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+    <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaGbada&theme=vue-dark&hide_border=true">
 </div>
+
+
 
 - 👨‍🦱 PhD Student (GNN and CV) [@University of Sousse](https://uso.rnu.tn/).
 - 🔭 I am currently working on OCR and Information Extraction.
