@@ -23,7 +23,7 @@
 - 🔭 I am currently working on OCR and Information Extraction.
 - 📚 Improving my skill in Graph Neural Networks (GNNs).
 <div>
-<img align="right"width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaGbada&theme=vue-dark&hide_border=true">
+<img align="right" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaGbada&theme=vue-dark&hide_border=true">
 </div>
 
 - 💌 Open-Source projects.
