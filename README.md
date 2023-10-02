@@ -12,10 +12,9 @@
 <img src="img.png" alt="img.png">
 </h2>
 
-<div align="right">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=HamzaGbada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaGbada&theme=vue-dark&hide_border=true">
-</div>
+
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=HamzaGbada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+
 
 
 
@@ -26,7 +25,11 @@
 - 💌 Open-Source projects.
 - شعر, تاريخ, أنساب, رياضيات (Poetry, history, Genealogy, Mathematics).
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/hamzagbada/)
-  
+
+<div>
+<img align="right"width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaGbada&theme=vue-dark&hide_border=true">
+</div>
+
 
 <h2 align="center"> 
   Tech stack 💻
