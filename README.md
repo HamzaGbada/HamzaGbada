@@ -13,7 +13,7 @@
 </h2>
 
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=HamzaGbada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+[//]: # (<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=HamzaGbada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">)
 
 
 
@@ -28,9 +28,9 @@
 - شعر, تاريخ, أنساب, رياضيات (Poetry, history, Genealogy, Mathematics).
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/hamzagbada/)
 
-<div>
-<img align="right" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaGbada&theme=vue-dark&hide_border=true">
-</div>
+[//]: # (<div>)
+[//]: # (<img align="right" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaGbada&theme=vue-dark&hide_border=true">)
+[//]: # (</div>)
 
 
 
