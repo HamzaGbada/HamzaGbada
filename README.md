@@ -25,7 +25,7 @@
 
 
 - 💌 Open-Source projects.
-- شعر, تاريخ, أنساب, رياضيات (Poetry, history, Genealogy, Mathematics).
+- شعر, تاريخ, أنساب, رياضيات (Poetry, history, Genealogy, Mathematics)
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/hamzagbada/)
 
 [//]: # (<div>)
