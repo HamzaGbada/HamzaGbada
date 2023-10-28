@@ -13,7 +13,7 @@
 </h2>
 
 
-<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=HamzaGbada&row=1&column=3">
+<img align="right" width="50%" src="https://github-profile-trophy.vercel.app/?username=HamzaGbada&row=1&column=3">
 
 
 
