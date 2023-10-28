@@ -13,8 +13,7 @@
 </h2>
 
 
-[//]: # (<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=HamzaGbada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">)
-
+<img align="center" width="35%" src="https://github-profile-trophy.vercel.app/?username=HamzaGbada&row=1&column=10">
 
 
 
