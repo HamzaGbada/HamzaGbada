@@ -37,7 +37,7 @@
   Tech stack 💻
 </h2>
 
-<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaGbada&size_weight=1&count_weight=0&hide=Jupyter%20Notebook,html&layout=donut-vertical">
+<img align="right" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaGbada&size_weight=1&count_weight=0&hide=Jupyter%20Notebook,html&layout=donut-vertical">
 
 <h4 align="left">
   
