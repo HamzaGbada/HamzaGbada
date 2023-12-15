@@ -18,7 +18,7 @@
 
 
 
-- 👨‍🦱 PhD Student (GNN and CV) [@University of Sousse](https://uso.rnu.tn/).
+- 👨‍🦱 PhD Student (deep graphs and CV) [@University of Sousse](https://uso.rnu.tn/).
 - 🔭 I am currently working on OCR and Information Extraction.
 - 📚 Improving my skill in Graph Neural Networks (GNNs).
 
