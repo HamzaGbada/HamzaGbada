@@ -70,7 +70,7 @@
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  [![DGL](https://img.shields.io/badge/DGL-%23439567.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dmlc/dgl)
+  ![DGL](https://img.shields.io/badge/DGL-00A3E0?style=for-the-badge&logo=DGL&logoColor=white)
 
   
 </h4>
