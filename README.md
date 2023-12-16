@@ -18,7 +18,7 @@
 
 
 
-- 👨‍🦱 PhD Student (deep graphs and CV) [@University of Sousse](https://uso.rnu.tn/).
+- 👨‍🦱 PhD Student (Deep Learning on Graphs and CV) [@University of Sousse](https://uso.rnu.tn/).
 - 🔭 I am currently working on OCR and Information Extraction.
 - 📚 Improving my skill in Graph Neural Networks (GNNs).
 
@@ -64,12 +64,13 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=PyTorch_Lightning&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Numba](https://a11ybadges.com/badge?logo=numba)
+  ![Numba]([https://a11ybadges.com/badge?logo=numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white))
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  [![DGL](https://img.shields.io/badge/DGL-Deep%20Graph%20Library-blue?logo=github)](https://github.com/dmlc/dgl)
   
 </h4>
 
