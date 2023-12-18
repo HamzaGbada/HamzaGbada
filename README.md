@@ -89,16 +89,3 @@
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 </h4>
 
-
-[//]: # (<h4 align="left">)
-
-[//]: # (  )
-[//]: # (  Progress : )
-
-[//]: # (  )
-[//]: # (  ![Rust]&#40;https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324&#41;)
-
-[//]: # (  ![FLAX]&#40;https://img.shields.io/badge/-FLAX-A8A4A3?style=for-the-badge&logo=JAX&logoColor=white&#41;)
-
-[//]: # (  )
-[//]: # (</h4>)
