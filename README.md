@@ -26,7 +26,7 @@
 - 💌 Open-Source projects.
 - شعر, تاريخ, أنساب, رياضيات (Poetry, history, Genealogy, Mathematics)
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/hamzagbada/)
-- Research works: [Researchgate](https://www.researchgate.net/profile/Hamza-Gbada)
+- Research works: [Scholar](https://scholar.google.com/citations?user=2YJfzV4AAAAJ)
 
 [//]: # (<div>)
 [//]: # (<img align="right" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaGbada&theme=vue-dark&hide_border=true">)
