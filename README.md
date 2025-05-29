@@ -18,9 +18,9 @@
 
 
 
-- 👨‍🦱 PhD Student (Deep Learning on Graphs and CV) [@University of Sousse](https://uso.rnu.tn/).
-- 🔭 I am currently working on OCR and Information Extraction.
-- 📚 Improving my skill in Graph Neural Networks (GNNs).
+- 👨‍🦱 PhD in Computer Science (Deep Learning on Graphs) [@University of Sousse](https://uso.rnu.tn/).
+- 🔭 I am currently working on Information Extraction, GNNs and Medical Imaging.
+- 📚 Improving my skill in GoLang/Kotlin.
 
 
 - 💌 Open-Source projects.
