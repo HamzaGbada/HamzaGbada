@@ -18,7 +18,7 @@
 
 
 
-- 👨‍🦱 PhD in Computer Science (Deep Learning on Graphs) [@University of Sousse](https://uso.rnu.tn/).
+- 👨‍🦱 PhD in Computer Science (Deep Learning on Graphs)
 - 🔭 I am currently working on Information Extraction, GNNs and Medical Imaging.
 - 📚 Improving my skill in GoLang/Kotlin.
 
